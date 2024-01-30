@@ -10,4 +10,4 @@ O projeto consiste em um portfolio construído para treinar conceitos de HTML e 
 
 
 **Você pode conferir o projeto na íntegra clicando aqui:** 
-[![Portfolio](https://img.shields.io/badge/portfolio-%238A2BE2.svg?&style=for-the-badge&logoColor=white&logo=github)](https://portfolio-html-css-3foz-2sdgblucw-danielas-projects-2e7de488.vercel.app/index.html)
+[![Portfolio](https://img.shields.io/badge/portfolio-%238A2BE2.svg?&style=for-the-badge&logoColor=white&logo=github)](https://portfolio-html-css-3foz.vercel.app/)
